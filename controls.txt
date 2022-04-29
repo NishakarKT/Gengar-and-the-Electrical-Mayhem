@@ -1,0 +1,5 @@
+Left Arrow key : Move Left
+Right Arrow key : Move Right
+Top Arrow key : Jump
+Down Arrow key : Dive
+Space Key : Attack
